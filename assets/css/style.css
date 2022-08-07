@@ -151,7 +151,6 @@ li {
 
 .active {
   display: block;
-  transition:all  10s;
 }
 
 
