@@ -150,7 +150,10 @@ li {
 }
 
 .active {
+  height: 100%;
   display: block;
+  transition-delay: 40s;
+  transition-property: height;
 }
 
 
