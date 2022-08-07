@@ -139,6 +139,7 @@ li {
 }
 
 .description {
+  padding: 10px 5%;
   display: none;
   background-color: #ffa500;
   text-align: center;
@@ -148,6 +149,10 @@ li {
   background-color: #90ee90;
 }
 
+.active {
+  display: block;
+  transition: display 5s;
+}
 
 /*=================================
   main styling ends here
