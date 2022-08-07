@@ -119,7 +119,13 @@ li {
 /*=================================
   main styling starts here
 =================================*/
+.accordion { 
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+}
 
+.accordion-item
 
 
 
